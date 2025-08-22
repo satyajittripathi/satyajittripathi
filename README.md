@@ -8,5 +8,4 @@ Current Focus
 Skills
 Business Analysis | CRM | ERP | Power BI |Banking & Trade Finance | Python | SQL | UX/UI | Full-Stack Learning  
 
-Motto
-> “Strive = Survive and Thrive.”  
+Motto - “Strive = Survive and Thrive.”  
